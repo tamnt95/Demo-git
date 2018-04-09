@@ -1,1 +1,2 @@
-asas
+﻿asas
+pull: Lấy nội dung của remote repository
