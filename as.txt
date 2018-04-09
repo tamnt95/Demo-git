@@ -7,3 +7,5 @@ Test merge
 pull: Lấy nội dung của remote repository
 
 Thay đổi chổ này
+
+Sửa fixbug
