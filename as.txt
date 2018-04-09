@@ -6,3 +6,4 @@ Test merge
 ﻿asas
 pull: Lấy nội dung của remote repository
 
+Thay đổi chổ này
